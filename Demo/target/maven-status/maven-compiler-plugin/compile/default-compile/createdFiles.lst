@@ -1,0 +1,17 @@
+com\java\demo\repository\SysUserRepository.class
+com\java\demo\entity\SysResource.class
+com\java\demo\repository\SysResourceRoleRepositoryCustom.class
+com\java\demo\repository\UserJpaRepository.class
+com\java\demo\controller\UserController.class
+com\java\demo\entity\SysUser.class
+com\java\demo\entity\SysResourceRole.class
+com\java\demo\repository\UserRepository.class
+com\java\demo\entity\User.class
+com\java\demo\entity\SysUserRole.class
+com\java\demo\repository\SysUserRoleRepository.class
+com\java\demo\MainApplication.class
+com\java\demo\service\impl\UserServiceImpl.class
+com\java\demo\entity\SysRole.class
+com\java\demo\repository\impl\SysResourceRoleRepositoryImpl.class
+com\java\demo\service\UserService.class
+com\java\demo\aop\LogAspect.class
