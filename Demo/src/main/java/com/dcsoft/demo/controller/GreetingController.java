@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.dcsoft.demo.JavaConfig;
 import com.dcsoft.demo.JavaConfigProperty;
-import com.dcsoft.springbootdome.scope.DemoPrototypeService;
-import com.dcsoft.springbootdome.scope.DemoSingletonService;  
+import com.dcsoft.demo.scope.DemoPrototypeService;
+import com.dcsoft.demo.scope.DemoSingletonService;  
   
 @RestController  
 @RequestMapping("/test")
